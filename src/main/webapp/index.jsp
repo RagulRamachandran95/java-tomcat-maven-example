@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello sample</h2>
+<h2>Hello CI build</h2>
 </body>
 </html>
