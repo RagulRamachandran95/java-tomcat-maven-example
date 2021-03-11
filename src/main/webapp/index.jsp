@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello demo App CICD 2</h2>
+<h2>Hello Today Commit 1</h2>
 </body>
 </html>
